@@ -1,4 +1,4 @@
-﻿using MODUL10;
+﻿using PRACTICE;
 
 class Programm
 {

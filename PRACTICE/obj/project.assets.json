@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\domai\\RiderProjects\\MODUL10\\MODUL10\\MODUL10.csproj",
-      "projectName": "MODUL10",
-      "projectPath": "C:\\Users\\domai\\RiderProjects\\MODUL10\\MODUL10\\MODUL10.csproj",
+      "projectUniqueName": "C:\\Users\\domai\\RiderProjects\\MODUL10\\PRACTICE\\PRACTICE.csproj",
+      "projectName": "PRACTICE",
+      "projectPath": "C:\\Users\\domai\\RiderProjects\\MODUL10\\PRACTICE\\PRACTICE.csproj",
       "packagesPath": "C:\\Users\\domai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\domai\\RiderProjects\\MODUL10\\MODUL10\\obj\\",
+      "outputPath": "C:\\Users\\domai\\RiderProjects\\MODUL10\\PRACTICE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\domai\\AppData\\Roaming\\NuGet\\NuGet.Config"

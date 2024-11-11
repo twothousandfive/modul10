@@ -1,4 +1,4 @@
-namespace MODUL10;
+namespace PRACTICE;
 
 public class RoomBookingSystem
 {
